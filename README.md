@@ -1,5 +1,5 @@
 # ATIVIDADE-REDES
-Atividade Prática: Configuração de Rede Local com Servidor DHCP (Topologia em Estrela)
+ Atividade Prática: Configuração de Rede Local com Servidor DHCP (Topologia em Estrela)
 
 1. Objetivo da Atividade
 Montar, configurar e validar uma rede local básica no Cisco Packet Tracer, implementando um servidor de endereçamento dinâmico (DHCP) para automação de IPs e testando a comunicação entre estações de trabalho e o servidor central.
