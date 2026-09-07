@@ -16,13 +16,14 @@ Para concluir o laboratório com sucesso, o aluno deve demonstrar o funcionament
 
 3.1 Validação do DHCP: Alterar a configuração de IP de cada um dos 5 PCs de Static para DHCP e comprovar que receberam os endereços automaticamente a partir de 192.168.1.100
 
+<img width="905" height="573" alt="Captura de tela 2026-09-07 193408" src="https://github.com/user-attachments/assets/a56eec14-1da0-4f18-9678-f50764a80fe9" />
+
 3.2 Teste de Conectividade (Ping): Abrir o Command Prompt em pelo menos dois computadores e testar a comunicação com o servidor:
 Bash
 ping 192.168.1.10
 (O retorno deve apresentar pacotes enviados com sucesso e 0% de perda).
 
-<img width="913" height="523" alt="Captura de tela 2026-09-07 185741" src="https://github.com/user-attachments/assets/6ae950e2-783a-4246-9e11-4f395e7622d7" />
-<img width="909" height="534" alt="Captura de tela 2026-09-07 185700" src="https://github.com/user-attachments/assets/a6bc58d5-a1df-4115-b51c-5c5518ad6410" />
+<img width="565" height="653" alt="Captura de tela 2026-09-07 193551" src="https://github.com/user-attachments/assets/4892c202-a894-4a45-9045-92a93505211e" />
 
 3.3 Teste de Envio de PDU: Utilizar a ferramenta de simulação de pacotes (ícone de carta no Packet Tracer) enviando uma mensagem de um PC para o Servidor e verificando o status Successful.
 
